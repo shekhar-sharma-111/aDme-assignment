@@ -1,10 +1,10 @@
 # aDme-assignment
 
-Dependencies:  "dependencies": {
-    "bootstrap": "^5.3.3",
-    "react": "^18.3.1",
-    "react-bootstrap": "^2.10.4",
-    "react-dom": "^18.3.1",
-    "reactstrap": "^9.2.2"
-  },
+Steps to start:
+1.cd assignment
+2.npm install
+3.npm run dev
+
+Output: 
+https://github.com/user-attachments/assets/229721e3-a107-4fbd-8ebe-b2f6bb19db0b
 
